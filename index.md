@@ -339,7 +339,7 @@ head(getPredictionResponse(pred2))
 ```
 
 ```
-[1] 5383.544 6566.714 5296.223 4756.715 7551.108 5929.577
+[1] 5511.384 6857.904 6216.858 7324.085 5929.577 6935.851
 ```
 
 
@@ -465,18 +465,6 @@ Podziękowanie
 ![Sponsor](img/kruk.jpeg)
 
 
-Zachęta
-========================================================
-
-![Koduj dla Polski](img/kdp.png)
-
-
-Projekt
-========================================================
-
-![Mapa](img/mapa.png)
-
-
 Konkurs
 ========================================================
 
@@ -533,3 +521,4 @@ Bonus
 6. Jak wygląda (brzegowa) zależność ceny m^2 od wieku mieszkania w wybranym przez Ciebie modelu?
 
 7. Sensownym pytaniem jest, które mieszkania zaklasyfikujemy jako osiągalne cenowo dla przeciętnego Wrocławianina. Przyjmując za próg 300 tys. zł, dodaj zmienną oznaczającą, czy mieszkanie jest dość tanie, stwórz zadanie klasyfikacji dla tej zmiennej i wytrenuj wybrany model.
+(Kod Piotra Sobczyka z wcześniejszego spotkania STWUR-a: [klik](https://github.com/STWUR/STWUR-2017-06-21/blob/master/exploration.R))
